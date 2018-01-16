@@ -1,3 +1,34 @@
-h1 {
-  color:blue;
+#topline{
+  color:black;
+}
+
+
+h1.header{
+  color:red;
+}
+
+h1{
+  text-align: center;
+  font-weight: bolder;
+}
+
+body{
+  background-color: #f5f5ee;
+}
+
+ul{
+  text-align: left;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+  text-align: center;
+}
+
+#squirrel{
+  font-style: italic;
 }
