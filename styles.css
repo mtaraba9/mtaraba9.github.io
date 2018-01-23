@@ -1,10 +1,5 @@
-#topline{
-  color:black;
-}
-
-
 h1.header{
-  color:red;
+  color:white;
 }
 
 h1{
@@ -31,4 +26,8 @@ p{
 
 #squirrel{
   font-style: italic;
+}
+
+div.header{
+  background-color:#4c3737;
 }
