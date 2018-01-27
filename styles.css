@@ -1,33 +1,62 @@
-h1.header{
-  color:white;
+
+h1.display-4{
+  margin-bottom: 60px;
 }
 
-h1{
-  text-align: center;
-  font-weight: bolder;
+.jumbotron img{
+  max-height: 400px;
 }
 
-body{
-  background-color: #f5f5ee;
+.jumbotron {
+    background-color: #ffffff;
 }
 
-ul{
-  text-align: left;
+.col-lg-4 {
+  padding-right: 40px;
+  padding-left: 40px;
 }
 
-table{
-  margin-left: auto;
-  margin-right: auto;
+.footer {
+  margin-top: 100px;
+  height: 20px;
 }
 
-p{
-  text-align: center;
+.bottom{
+margin-top: 0px;
+margin-bottom: 50px;
 }
 
-#squirrel{
-  font-style: italic;
+.smallbottom {
+  height: 20px
 }
 
-div.header{
-  background-color:#4c3737;
+li.spacebelow{
+  margin-bottom: 20px;
+}
+
+#recipehead {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#tacotitle{
+  font-family: 'Permanent Marker', cursive;
+}
+
+h3#tacotitle{
+  line-height: 2.3;
+}
+
+
+#steaktitle{
+  font-family: 'Alfa Slab One', cursive;
+}
+
+h3#steaktitle{
+  line-height: 2.3;
+}
+
+
+#gumbotitle{
+  font-family: 'Luckiest Guy', cursive
 }
